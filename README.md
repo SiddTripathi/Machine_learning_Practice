@@ -9,6 +9,6 @@
 
  #T-SNE_vs_PCA - t-SNE dimensionality reduction implemented on one dataset
 
- # Text_mining_blogs - A large data set of blogs having 19,300 xml files is processed. Each XML file contains blog of different
+ #Text_mining_blogs - A large data set of blogs having 19,300 xml files is processed. Each XML file contains blog of different
    Demographic category. The xml files are named as per the demography. The objective is to find the most dominant topic in the blog in order to find whats the discussion going on in
    a particular demograpyh group.
