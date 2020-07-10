@@ -1,12 +1,14 @@
 # Machine_learning_Practice
 
-#Assignment 1B_Quest1 - Python Code for implementation of Decision Tree Classifier, Multilayer Perceptron and Average Aggregate Classifier on a data set FOREST
+#MLP_DT_Classifier - Python Code for implementation of Decision Tree Classifier, Multilayer Perceptron and Average Aggregate Classifier on a data set FOREST
 
-#Assignment 1B_Question2 - Implemntation of Multilayer Perceptron classifier on different data set and a comparitive study on performance and accuraccy score for each data set.
+#Practice - Classifiers - Decision Tree and Multilayer Perceptron. Confusion Matrix (Practice) 
 
-#part1 - Classifiers - Decision Tree and Multilayer Perceptron. Confusion Matrix 
-
-#Assignment2_Task2 - Analysis of different clustering techniques by implementing them on 4 different data sets, and comparing their performance on four measures - Silhouette Score, Sum Square Error, Davies Bouldin, Time Taken.
+#Clustering_Analysis_In_Machine_learning - Analysis of different clustering techniques by implementing them on 4 different data sets, and comparing their performance on four measures - Silhouette Score, Sum Square Error, Davies Bouldin, Time Taken.
 #The overall winner algorithm was Agglomerative algorithm. Details of entire analysis in report.
 
-#Assignment2_task3 - t-SNE dimensionality reduction implemented on one of the dataset used previously in Assignment2_task2
+#T-SNE_vs_PCA - t-SNE dimensionality reduction implemented on one of the dataset used previously in Assignment2_task2
+
+# Text_mining_blogs - A large data set of blogs having 19,300 xml files is processed. Each XML file contains blog of different
+  Demographic category. The xml files are named as per the demography. The objective is to find the most dominant topic in the blog in order to find whats the discussion going on in
+  a particular demograpyh group.
